@@ -1,5 +1,34 @@
 ## Hi there 👋
+<!--
+Khan Academy
+Curso em Vídeo
+Estudonauta
+CS50
+42 São Paulo
+Open Source Society University
 
+---
+
+The Odin Project
+curso.dev
+Origamid
+Rocketsesat
+Developer Roadmaps
+Mathematics Roadmap
+MDN Web Docs
+W3Schools
+GeeksforGeeks
+freeCodeCamp
+Frontend Masters
+
+---
+
+Gustavo Guanabara
+Fabio Akita
+Filipe Deschamps
+Diolinux
+ThePrimeagen
+-->
 <!--
 **martins-yuu/martins-yuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
