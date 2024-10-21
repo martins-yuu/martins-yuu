@@ -45,6 +45,6 @@ Here are some ideas to get you started:
 -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=14&i=js,ts,html,css,tailwind,svelte,solidjs,astro,lit,vue,react,angular,tauri,flutter,rails,django,dotnet,htmx,adonis,nestjs,elysia,postgres,sqlite,redis,docker,git,bash,c,ruby,dart,lua,elixir,crystal,kotlin,clojure,go,zig,rust,swift,cs,python,nodejs,deno,bun,aws,azure,gcp,firebase,heroku,figma,ps,ai,pr,ae,arch,vim" />
+    <img src="https://skillicons.dev/icons?perline=15&i=js,ts,html,css,tailwind,htmx,svelte,solidjs,astro,lit,vue,nuxtjs,react,nextjs,angular,tauri,flutter,rails,django,dotnet,adonis,nestjs,elysia,postgres,sqlite,redis,docker,git,bash,c,cpp,cs,ruby,dart,lua,elixir,crystal,kotlin,clojure,go,zig,rust,swift,python,nodejs,deno,bun,aws,azure,gcp,firebase,heroku,figma,ps,ai,pr,ae,blender,arch,vim" />
   </a>
 </p>
